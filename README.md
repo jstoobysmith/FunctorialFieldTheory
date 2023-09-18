@@ -30,8 +30,10 @@ Papers may appear more then once, in different classes. This list will hopefully
 * Davidovich: [State sums in two dimensional fully extended topological field theories](https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2011-05-3139)
 ## 3d TFTs
 * Juhász: [Defining and classifying TQFTs via surgery](https://arxiv.org/abs/1408.0668)
+## Invertible TFTs
+* Freed and Hopkins: [Reflection positivity and invertible topological phases](https://arxiv.org/abs/1604.06527)
 ## Invertible symmetries 
-
+* Gripaios, Randal-Williams and Tooby-Smith: [Generalized symmetries of topological field theories](https://arxiv.org/abs/2209.13524)
 ## Non-invertible symmetries 
 * Carqueville: [Orbifolds of topological quantum field theories](https://arxiv.org/abs/2307.16674)
 ---
