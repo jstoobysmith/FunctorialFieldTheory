@@ -28,6 +28,8 @@ Papers may appear more then once, in different classes. This list will hopefully
 ## 2d TFTs
 * Schommer-Pries: [The classification of two-dimensional extended topological field theories](https://arxiv.org/abs/1112.1000)
 * Davidovich: [State sums in two dimensional fully extended topological field theories](https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2011-05-3139)
+## 3d TFTs
+* Juhász: [Defining and classifying TQFTs via surgery](https://arxiv.org/abs/1408.0668)
 ## Invertible symmetries 
 
 ## Non-invertible symmetries 
